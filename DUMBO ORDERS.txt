@@ -1,0 +1,53 @@
+	dumbo start wordcountMR.py \
+	-hadoop /usr/hdp/2.6.5.0-292/hadoop \
+	-hadooplib /usr/hdp/2.6.5.0-292/hadoop-mapreduce \
+	-python /usr/bin/python \
+	-input /master/m7/input/quijote.txt \
+	-output /master/m7/output/ \
+	-overwrite yes
+
+## e1
+
+dumbo start modulo7_e1.py \
+-hadoop /usr/hdp/2.6.5.0-292/hadoop \
+-hadooplib /usr/hdp/2.6.5.0-292/hadoop-mapreduce \
+-python /usr/bin/python \
+-input /master/m7/input/CountryMedals.txt \
+-input /master/m7/input/OlympicAthletes.txt \
+-output /master/m7/output/e1/ \
+-overwrite yes
+
+##e2
+
+dumbo start modulo7_e2.py \
+-hadoop /usr/hdp/2.6.5.0-292/hadoop \
+-hadooplib /usr/hdp/2.6.5.0-292/hadoop-mapreduce \
+-python /usr/bin/python \
+-input /master/m7/input/OlympicAthletes.txt \
+-output /master/m7/output/e2/ \
+-file ./data/CountryMedals.txt \
+-overwrite yes
+
+##e3
+
+dumbo start modulo7_e3.py \
+-hadoop /usr/hdp/2.6.5.0-292/hadoop \
+-hadooplib /usr/hdp/2.6.5.0-292/hadoop-mapreduce \
+-python /usr/bin/python \
+-input /master/m7/input/OlympicAthletes.txt \
+-output /master/m7/output/e3/ \
+-file ./data/CountryMedals.txt \
+-overwrite yes
+
+##t1
+
+  
+dumbo start t1.py \
+  -hadoop /usr/hdp/2.6.5.0-292/hadoop \
+  -hadooplib /usr/hdp/2.6.5.0-292/hadoop-mapreduce \
+  -python /usr/bin/python \
+  -input /master/m7/input/Contratos_por_municipio.csv \
+  -output /master/m7/output/t1/ \
+  -file ./data/Comunidades_y_provincias.csv \
+  -overwrite yes \
+  -param limpiardatos=si

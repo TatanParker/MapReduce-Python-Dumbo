@@ -1,0 +1,2311 @@
+medal|prize|country|year
+Gold|97918|Afghanistan|2000
+Silver|47547|Afghanistan|2000
+Bronze|29475|Afghanistan|2000
+Gold|172202|Afghanistan|2002
+Silver|56164|Afghanistan|2002
+Bronze|15887|Afghanistan|2002
+Gold|186212|Afghanistan|2004
+Silver|59100|Afghanistan|2004
+Bronze|28568|Afghanistan|2004
+Gold|111493|Afghanistan|2006
+Silver|77158|Afghanistan|2006
+Bronze|21362|Afghanistan|2006
+Gold|143220|Afghanistan|2008
+Silver|62432|Afghanistan|2008
+Bronze|16047|Afghanistan|2008
+Gold|171777|Afghanistan|2010
+Silver|64993|Afghanistan|2010
+Bronze|12086|Afghanistan|2010
+Gold|126832|Afghanistan|2012
+Silver|67575|Afghanistan|2012
+Bronze|21296|Afghanistan|2012
+Gold|194474|Algeria|2000
+Silver|70389|Algeria|2000
+Bronze|29386|Algeria|2000
+Gold|128845|Algeria|2002
+Silver|59477|Algeria|2002
+Bronze|28714|Algeria|2002
+Gold|175055|Algeria|2004
+Silver|46212|Algeria|2004
+Bronze|16799|Algeria|2004
+Gold|107406|Algeria|2006
+Silver|79307|Algeria|2006
+Bronze|20263|Algeria|2006
+Gold|199238|Algeria|2008
+Silver|55540|Algeria|2008
+Bronze|18004|Algeria|2008
+Gold|152188|Algeria|2010
+Silver|69702|Algeria|2010
+Bronze|17763|Algeria|2010
+Gold|134001|Algeria|2012
+Silver|41313|Algeria|2012
+Bronze|19202|Algeria|2012
+Gold|147334|Argentina|2000
+Silver|67257|Argentina|2000
+Bronze|29236|Argentina|2000
+Gold|183757|Argentina|2002
+Silver|56209|Argentina|2002
+Bronze|14497|Argentina|2002
+Gold|144121|Argentina|2004
+Silver|42023|Argentina|2004
+Bronze|21974|Argentina|2004
+Gold|118107|Argentina|2006
+Silver|78083|Argentina|2006
+Bronze|28809|Argentina|2006
+Gold|115516|Argentina|2008
+Silver|65598|Argentina|2008
+Bronze|19908|Argentina|2008
+Gold|191339|Argentina|2010
+Silver|71019|Argentina|2010
+Bronze|12881|Argentina|2010
+Gold|193061|Argentina|2012
+Silver|52234|Argentina|2012
+Bronze|11671|Argentina|2012
+Gold|185854|Armenia|2000
+Silver|69175|Armenia|2000
+Bronze|15302|Armenia|2000
+Gold|149129|Armenia|2002
+Silver|47774|Armenia|2002
+Bronze|27291|Armenia|2002
+Gold|192437|Armenia|2004
+Silver|40812|Armenia|2004
+Bronze|12053|Armenia|2004
+Gold|199745|Armenia|2006
+Silver|69926|Armenia|2006
+Bronze|18678|Armenia|2006
+Gold|182842|Armenia|2008
+Silver|79903|Armenia|2008
+Bronze|16803|Armenia|2008
+Gold|140837|Armenia|2010
+Silver|57099|Armenia|2010
+Bronze|20528|Armenia|2010
+Gold|120499|Armenia|2012
+Silver|75161|Armenia|2012
+Bronze|19972|Armenia|2012
+Gold|143873|Australia|2000
+Silver|67398|Australia|2000
+Bronze|25036|Australia|2000
+Gold|195110|Australia|2002
+Silver|61517|Australia|2002
+Bronze|24614|Australia|2002
+Gold|112734|Australia|2004
+Silver|62906|Australia|2004
+Bronze|26419|Australia|2004
+Gold|149759|Australia|2006
+Silver|59563|Australia|2006
+Bronze|18938|Australia|2006
+Gold|122122|Australia|2008
+Silver|78780|Australia|2008
+Bronze|18128|Australia|2008
+Gold|124246|Australia|2010
+Silver|69791|Australia|2010
+Bronze|17823|Australia|2010
+Gold|135888|Australia|2012
+Silver|54566|Australia|2012
+Bronze|13239|Australia|2012
+Gold|186024|Austria|2000
+Silver|46799|Austria|2000
+Bronze|14450|Austria|2000
+Gold|168599|Austria|2002
+Silver|76852|Austria|2002
+Bronze|23753|Austria|2002
+Gold|148295|Austria|2004
+Silver|65868|Austria|2004
+Bronze|16637|Austria|2004
+Gold|176113|Austria|2006
+Silver|57131|Austria|2006
+Bronze|16264|Austria|2006
+Gold|104744|Austria|2008
+Silver|44579|Austria|2008
+Bronze|21646|Austria|2008
+Gold|124070|Austria|2010
+Silver|44864|Austria|2010
+Bronze|11304|Austria|2010
+Gold|116103|Austria|2012
+Silver|43390|Austria|2012
+Bronze|12074|Austria|2012
+Gold|150473|Azerbaijan|2000
+Silver|50810|Azerbaijan|2000
+Bronze|23369|Azerbaijan|2000
+Gold|193118|Azerbaijan|2002
+Silver|77919|Azerbaijan|2002
+Bronze|24530|Azerbaijan|2002
+Gold|147290|Azerbaijan|2004
+Silver|69311|Azerbaijan|2004
+Bronze|17461|Azerbaijan|2004
+Gold|120527|Azerbaijan|2006
+Silver|46675|Azerbaijan|2006
+Bronze|28057|Azerbaijan|2006
+Gold|145550|Azerbaijan|2008
+Silver|76108|Azerbaijan|2008
+Bronze|27899|Azerbaijan|2008
+Gold|93497|Azerbaijan|2010
+Silver|76387|Azerbaijan|2010
+Bronze|26917|Azerbaijan|2010
+Gold|118225|Azerbaijan|2012
+Silver|45544|Azerbaijan|2012
+Bronze|20494|Azerbaijan|2012
+Gold|146048|Bahamas|2000
+Silver|50524|Bahamas|2000
+Bronze|28833|Bahamas|2000
+Gold|101060|Bahamas|2002
+Silver|67253|Bahamas|2002
+Bronze|20209|Bahamas|2002
+Gold|151253|Bahamas|2004
+Silver|44772|Bahamas|2004
+Bronze|10347|Bahamas|2004
+Gold|91064|Bahamas|2006
+Silver|48147|Bahamas|2006
+Bronze|18711|Bahamas|2006
+Gold|98212|Bahamas|2008
+Silver|50493|Bahamas|2008
+Bronze|28929|Bahamas|2008
+Gold|92440|Bahamas|2010
+Silver|68658|Bahamas|2010
+Bronze|22622|Bahamas|2010
+Gold|141726|Bahamas|2012
+Silver|69999|Bahamas|2012
+Bronze|29726|Bahamas|2012
+Gold|152988|Bahrain|2000
+Silver|47225|Bahrain|2000
+Bronze|19688|Bahrain|2000
+Gold|175442|Bahrain|2002
+Silver|44128|Bahrain|2002
+Bronze|17125|Bahrain|2002
+Gold|191059|Bahrain|2004
+Silver|72717|Bahrain|2004
+Bronze|28502|Bahrain|2004
+Gold|115251|Bahrain|2006
+Silver|76930|Bahrain|2006
+Bronze|11618|Bahrain|2006
+Gold|184221|Bahrain|2008
+Silver|49878|Bahrain|2008
+Bronze|26041|Bahrain|2008
+Gold|119360|Bahrain|2010
+Silver|65348|Bahrain|2010
+Bronze|18206|Bahrain|2010
+Gold|179292|Bahrain|2012
+Silver|45265|Bahrain|2012
+Bronze|17297|Bahrain|2012
+Gold|173466|Barbados|2000
+Silver|57011|Barbados|2000
+Bronze|10041|Barbados|2000
+Gold|118300|Barbados|2002
+Silver|67540|Barbados|2002
+Bronze|21375|Barbados|2002
+Gold|129985|Barbados|2004
+Silver|69396|Barbados|2004
+Bronze|25079|Barbados|2004
+Gold|139985|Barbados|2006
+Silver|71662|Barbados|2006
+Bronze|18264|Barbados|2006
+Gold|147226|Barbados|2008
+Silver|65414|Barbados|2008
+Bronze|16614|Barbados|2008
+Gold|110992|Barbados|2010
+Silver|76442|Barbados|2010
+Bronze|11723|Barbados|2010
+Gold|126953|Barbados|2012
+Silver|66266|Barbados|2012
+Bronze|18006|Barbados|2012
+Gold|150096|Belarus|2000
+Silver|44982|Belarus|2000
+Bronze|12579|Belarus|2000
+Gold|92661|Belarus|2002
+Silver|78196|Belarus|2002
+Bronze|28114|Belarus|2002
+Gold|189173|Belarus|2004
+Silver|67943|Belarus|2004
+Bronze|17416|Belarus|2004
+Gold|108753|Belarus|2006
+Silver|40482|Belarus|2006
+Bronze|21066|Belarus|2006
+Gold|134157|Belarus|2008
+Silver|51874|Belarus|2008
+Bronze|11153|Belarus|2008
+Gold|153718|Belarus|2010
+Silver|63983|Belarus|2010
+Bronze|14518|Belarus|2010
+Gold|128062|Belarus|2012
+Silver|49698|Belarus|2012
+Bronze|25080|Belarus|2012
+Gold|151129|Belgium|2000
+Silver|59283|Belgium|2000
+Bronze|20968|Belgium|2000
+Gold|93396|Belgium|2002
+Silver|56028|Belgium|2002
+Bronze|16096|Belgium|2002
+Gold|118829|Belgium|2004
+Silver|66317|Belgium|2004
+Bronze|20605|Belgium|2004
+Gold|159598|Belgium|2006
+Silver|50511|Belgium|2006
+Bronze|10785|Belgium|2006
+Gold|120089|Belgium|2008
+Silver|49887|Belgium|2008
+Bronze|25680|Belgium|2008
+Gold|134431|Belgium|2010
+Silver|53663|Belgium|2010
+Bronze|14488|Belgium|2010
+Gold|147932|Belgium|2012
+Silver|66582|Belgium|2012
+Bronze|23531|Belgium|2012
+Gold|119702|Botswana|2000
+Silver|45960|Botswana|2000
+Bronze|19390|Botswana|2000
+Gold|171398|Botswana|2002
+Silver|51730|Botswana|2002
+Bronze|23561|Botswana|2002
+Gold|155253|Botswana|2004
+Silver|63534|Botswana|2004
+Bronze|18597|Botswana|2004
+Gold|145425|Botswana|2006
+Silver|57347|Botswana|2006
+Bronze|29130|Botswana|2006
+Gold|167554|Botswana|2008
+Silver|55215|Botswana|2008
+Bronze|21011|Botswana|2008
+Gold|150903|Botswana|2010
+Silver|50861|Botswana|2010
+Bronze|22897|Botswana|2010
+Gold|176419|Botswana|2012
+Silver|61891|Botswana|2012
+Bronze|11325|Botswana|2012
+Gold|186882|Brazil|2000
+Silver|74215|Brazil|2000
+Bronze|19733|Brazil|2000
+Gold|134020|Brazil|2002
+Silver|64352|Brazil|2002
+Bronze|14693|Brazil|2002
+Gold|162097|Brazil|2004
+Silver|48612|Brazil|2004
+Bronze|12955|Brazil|2004
+Gold|110185|Brazil|2006
+Silver|42057|Brazil|2006
+Bronze|13538|Brazil|2006
+Gold|119514|Brazil|2008
+Silver|57094|Brazil|2008
+Bronze|18371|Brazil|2008
+Gold|128994|Brazil|2010
+Silver|50659|Brazil|2010
+Bronze|29736|Brazil|2010
+Gold|184890|Brazil|2012
+Silver|79811|Brazil|2012
+Bronze|11938|Brazil|2012
+Gold|100184|Bulgaria|2000
+Silver|55709|Bulgaria|2000
+Bronze|28209|Bulgaria|2000
+Gold|139859|Bulgaria|2002
+Silver|57454|Bulgaria|2002
+Bronze|15461|Bulgaria|2002
+Gold|108313|Bulgaria|2004
+Silver|49202|Bulgaria|2004
+Bronze|22469|Bulgaria|2004
+Gold|93882|Bulgaria|2006
+Silver|72026|Bulgaria|2006
+Bronze|26319|Bulgaria|2006
+Gold|98290|Bulgaria|2008
+Silver|71524|Bulgaria|2008
+Bronze|28337|Bulgaria|2008
+Gold|197004|Bulgaria|2010
+Silver|62064|Bulgaria|2010
+Bronze|27937|Bulgaria|2010
+Gold|194123|Bulgaria|2012
+Silver|49640|Bulgaria|2012
+Bronze|22863|Bulgaria|2012
+Gold|160379|Cameroon|2000
+Silver|50188|Cameroon|2000
+Bronze|12615|Cameroon|2000
+Gold|169816|Cameroon|2002
+Silver|53282|Cameroon|2002
+Bronze|13470|Cameroon|2002
+Gold|182849|Cameroon|2004
+Silver|58014|Cameroon|2004
+Bronze|19778|Cameroon|2004
+Gold|141339|Cameroon|2006
+Silver|75525|Cameroon|2006
+Bronze|25266|Cameroon|2006
+Gold|119697|Cameroon|2008
+Silver|41050|Cameroon|2008
+Bronze|24098|Cameroon|2008
+Gold|166142|Cameroon|2010
+Silver|62613|Cameroon|2010
+Bronze|19399|Cameroon|2010
+Gold|167860|Cameroon|2012
+Silver|49463|Cameroon|2012
+Bronze|17301|Cameroon|2012
+Gold|140171|Canada|2000
+Silver|45017|Canada|2000
+Bronze|27915|Canada|2000
+Gold|116251|Canada|2002
+Silver|79961|Canada|2002
+Bronze|16815|Canada|2002
+Gold|146938|Canada|2004
+Silver|52424|Canada|2004
+Bronze|27638|Canada|2004
+Gold|96561|Canada|2006
+Silver|54932|Canada|2006
+Bronze|10638|Canada|2006
+Gold|98232|Canada|2008
+Silver|51503|Canada|2008
+Bronze|13776|Canada|2008
+Gold|134318|Canada|2010
+Silver|73784|Canada|2010
+Bronze|26534|Canada|2010
+Gold|141514|Canada|2012
+Silver|60392|Canada|2012
+Bronze|29101|Canada|2012
+Gold|187159|Chile|2000
+Silver|59732|Chile|2000
+Bronze|15833|Chile|2000
+Gold|150911|Chile|2002
+Silver|65683|Chile|2002
+Bronze|29527|Chile|2002
+Gold|152148|Chile|2004
+Silver|67091|Chile|2004
+Bronze|14463|Chile|2004
+Gold|117119|Chile|2006
+Silver|40327|Chile|2006
+Bronze|16692|Chile|2006
+Gold|136091|Chile|2008
+Silver|44617|Chile|2008
+Bronze|22313|Chile|2008
+Gold|136168|Chile|2010
+Silver|76923|Chile|2010
+Bronze|25395|Chile|2010
+Gold|114239|Chile|2012
+Silver|41632|Chile|2012
+Bronze|15245|Chile|2012
+Gold|117653|China|2000
+Silver|57662|China|2000
+Bronze|17051|China|2000
+Gold|129671|China|2002
+Silver|43500|China|2002
+Bronze|27070|China|2002
+Gold|190075|China|2004
+Silver|44203|China|2004
+Bronze|21202|China|2004
+Gold|135442|China|2006
+Silver|60029|China|2006
+Bronze|27909|China|2006
+Gold|187098|China|2008
+Silver|66116|China|2008
+Bronze|26158|China|2008
+Gold|135061|China|2010
+Silver|76398|China|2010
+Bronze|18010|China|2010
+Gold|194085|China|2012
+Silver|61909|China|2012
+Bronze|27447|China|2012
+Gold|141726|Chinese Taipei|2000
+Silver|51736|Chinese Taipei|2000
+Bronze|18133|Chinese Taipei|2000
+Gold|134578|Chinese Taipei|2002
+Silver|73751|Chinese Taipei|2002
+Bronze|25683|Chinese Taipei|2002
+Gold|180913|Chinese Taipei|2004
+Silver|42104|Chinese Taipei|2004
+Bronze|23220|Chinese Taipei|2004
+Gold|95785|Chinese Taipei|2006
+Silver|48761|Chinese Taipei|2006
+Bronze|10302|Chinese Taipei|2006
+Gold|145143|Chinese Taipei|2008
+Silver|62382|Chinese Taipei|2008
+Bronze|23109|Chinese Taipei|2008
+Gold|119881|Chinese Taipei|2010
+Silver|76432|Chinese Taipei|2010
+Bronze|19215|Chinese Taipei|2010
+Gold|175633|Chinese Taipei|2012
+Silver|47978|Chinese Taipei|2012
+Bronze|26126|Chinese Taipei|2012
+Gold|146745|Colombia|2000
+Silver|68775|Colombia|2000
+Bronze|28106|Colombia|2000
+Gold|180697|Colombia|2002
+Silver|75286|Colombia|2002
+Bronze|28303|Colombia|2002
+Gold|181770|Colombia|2004
+Silver|73931|Colombia|2004
+Bronze|11702|Colombia|2004
+Gold|132229|Colombia|2006
+Silver|47013|Colombia|2006
+Bronze|21684|Colombia|2006
+Gold|164075|Colombia|2008
+Silver|66469|Colombia|2008
+Bronze|29142|Colombia|2008
+Gold|115865|Colombia|2010
+Silver|63639|Colombia|2010
+Bronze|20098|Colombia|2010
+Gold|154515|Colombia|2012
+Silver|48987|Colombia|2012
+Bronze|20825|Colombia|2012
+Gold|104367|Costa Rica|2000
+Silver|74489|Costa Rica|2000
+Bronze|21826|Costa Rica|2000
+Gold|132275|Costa Rica|2002
+Silver|75666|Costa Rica|2002
+Bronze|18203|Costa Rica|2002
+Gold|162226|Costa Rica|2004
+Silver|64319|Costa Rica|2004
+Bronze|15602|Costa Rica|2004
+Gold|144416|Costa Rica|2006
+Silver|48240|Costa Rica|2006
+Bronze|24728|Costa Rica|2006
+Gold|123717|Costa Rica|2008
+Silver|60715|Costa Rica|2008
+Bronze|26149|Costa Rica|2008
+Gold|189983|Costa Rica|2010
+Silver|61874|Costa Rica|2010
+Bronze|23499|Costa Rica|2010
+Gold|133677|Costa Rica|2012
+Silver|53051|Costa Rica|2012
+Bronze|29192|Costa Rica|2012
+Gold|90381|Croatia|2000
+Silver|46306|Croatia|2000
+Bronze|27130|Croatia|2000
+Gold|133149|Croatia|2002
+Silver|40996|Croatia|2002
+Bronze|25176|Croatia|2002
+Gold|103290|Croatia|2004
+Silver|47562|Croatia|2004
+Bronze|11049|Croatia|2004
+Gold|156542|Croatia|2006
+Silver|42820|Croatia|2006
+Bronze|22881|Croatia|2006
+Gold|107125|Croatia|2008
+Silver|65123|Croatia|2008
+Bronze|14515|Croatia|2008
+Gold|128230|Croatia|2010
+Silver|65070|Croatia|2010
+Bronze|23190|Croatia|2010
+Gold|97433|Croatia|2012
+Silver|53428|Croatia|2012
+Bronze|10626|Croatia|2012
+Gold|130675|Cuba|2000
+Silver|40395|Cuba|2000
+Bronze|14216|Cuba|2000
+Gold|113858|Cuba|2002
+Silver|50772|Cuba|2002
+Bronze|15261|Cuba|2002
+Gold|175350|Cuba|2004
+Silver|61023|Cuba|2004
+Bronze|19426|Cuba|2004
+Gold|173466|Cuba|2006
+Silver|75390|Cuba|2006
+Bronze|13302|Cuba|2006
+Gold|126150|Cuba|2008
+Silver|73787|Cuba|2008
+Bronze|28199|Cuba|2008
+Gold|131637|Cuba|2010
+Silver|48499|Cuba|2010
+Bronze|13806|Cuba|2010
+Gold|179320|Cuba|2012
+Silver|73760|Cuba|2012
+Bronze|28340|Cuba|2012
+Gold|134744|Cyprus|2000
+Silver|63116|Cyprus|2000
+Bronze|14020|Cyprus|2000
+Gold|188947|Cyprus|2002
+Silver|77557|Cyprus|2002
+Bronze|29862|Cyprus|2002
+Gold|140102|Cyprus|2004
+Silver|62295|Cyprus|2004
+Bronze|28534|Cyprus|2004
+Gold|91960|Cyprus|2006
+Silver|43498|Cyprus|2006
+Bronze|11056|Cyprus|2006
+Gold|159041|Cyprus|2008
+Silver|77268|Cyprus|2008
+Bronze|12920|Cyprus|2008
+Gold|137129|Cyprus|2010
+Silver|46875|Cyprus|2010
+Bronze|28118|Cyprus|2010
+Gold|173680|Cyprus|2012
+Silver|59867|Cyprus|2012
+Bronze|27886|Cyprus|2012
+Gold|116226|Czech Republic|2000
+Silver|63680|Czech Republic|2000
+Bronze|16210|Czech Republic|2000
+Gold|158752|Czech Republic|2002
+Silver|46165|Czech Republic|2002
+Bronze|11794|Czech Republic|2002
+Gold|179366|Czech Republic|2004
+Silver|72670|Czech Republic|2004
+Bronze|29031|Czech Republic|2004
+Gold|169026|Czech Republic|2006
+Silver|49820|Czech Republic|2006
+Bronze|10913|Czech Republic|2006
+Gold|112487|Czech Republic|2008
+Silver|64855|Czech Republic|2008
+Bronze|14466|Czech Republic|2008
+Gold|121539|Czech Republic|2010
+Silver|41531|Czech Republic|2010
+Bronze|16813|Czech Republic|2010
+Gold|182543|Czech Republic|2012
+Silver|53593|Czech Republic|2012
+Bronze|29694|Czech Republic|2012
+Gold|173482|Denmark|2000
+Silver|49079|Denmark|2000
+Bronze|28093|Denmark|2000
+Gold|161021|Denmark|2002
+Silver|52708|Denmark|2002
+Bronze|12069|Denmark|2002
+Gold|186289|Denmark|2004
+Silver|72909|Denmark|2004
+Bronze|10111|Denmark|2004
+Gold|184156|Denmark|2006
+Silver|55006|Denmark|2006
+Bronze|25922|Denmark|2006
+Gold|115992|Denmark|2008
+Silver|75779|Denmark|2008
+Bronze|23077|Denmark|2008
+Gold|165212|Denmark|2010
+Silver|75043|Denmark|2010
+Bronze|19195|Denmark|2010
+Gold|104138|Denmark|2012
+Silver|63591|Denmark|2012
+Bronze|16991|Denmark|2012
+Gold|186458|Dominican Republic|2000
+Silver|48544|Dominican Republic|2000
+Bronze|13550|Dominican Republic|2000
+Gold|150339|Dominican Republic|2002
+Silver|47877|Dominican Republic|2002
+Bronze|27485|Dominican Republic|2002
+Gold|131088|Dominican Republic|2004
+Silver|65871|Dominican Republic|2004
+Bronze|28547|Dominican Republic|2004
+Gold|188420|Dominican Republic|2006
+Silver|44188|Dominican Republic|2006
+Bronze|17367|Dominican Republic|2006
+Gold|144595|Dominican Republic|2008
+Silver|65288|Dominican Republic|2008
+Bronze|20418|Dominican Republic|2008
+Gold|104144|Dominican Republic|2010
+Silver|79469|Dominican Republic|2010
+Bronze|24476|Dominican Republic|2010
+Gold|90395|Dominican Republic|2012
+Silver|52978|Dominican Republic|2012
+Bronze|27523|Dominican Republic|2012
+Gold|152990|Ecuador|2000
+Silver|52489|Ecuador|2000
+Bronze|11731|Ecuador|2000
+Gold|99748|Ecuador|2002
+Silver|41112|Ecuador|2002
+Bronze|24363|Ecuador|2002
+Gold|119206|Ecuador|2004
+Silver|43371|Ecuador|2004
+Bronze|18014|Ecuador|2004
+Gold|117372|Ecuador|2006
+Silver|60527|Ecuador|2006
+Bronze|10972|Ecuador|2006
+Gold|95027|Ecuador|2008
+Silver|62437|Ecuador|2008
+Bronze|13219|Ecuador|2008
+Gold|129548|Ecuador|2010
+Silver|73317|Ecuador|2010
+Bronze|14267|Ecuador|2010
+Gold|154625|Ecuador|2012
+Silver|58560|Ecuador|2012
+Bronze|22367|Ecuador|2012
+Gold|193869|Egypt|2000
+Silver|63735|Egypt|2000
+Bronze|29785|Egypt|2000
+Gold|99793|Egypt|2002
+Silver|56543|Egypt|2002
+Bronze|14198|Egypt|2002
+Gold|131787|Egypt|2004
+Silver|48049|Egypt|2004
+Bronze|18761|Egypt|2004
+Gold|107247|Egypt|2006
+Silver|59687|Egypt|2006
+Bronze|13058|Egypt|2006
+Gold|135838|Egypt|2008
+Silver|63732|Egypt|2008
+Bronze|19071|Egypt|2008
+Gold|102958|Egypt|2010
+Silver|41013|Egypt|2010
+Bronze|27514|Egypt|2010
+Gold|164834|Egypt|2012
+Silver|79235|Egypt|2012
+Bronze|20594|Egypt|2012
+Gold|119549|Eritrea|2000
+Silver|72532|Eritrea|2000
+Bronze|13465|Eritrea|2000
+Gold|113886|Eritrea|2002
+Silver|47678|Eritrea|2002
+Bronze|11240|Eritrea|2002
+Gold|97476|Eritrea|2004
+Silver|44903|Eritrea|2004
+Bronze|17698|Eritrea|2004
+Gold|145881|Eritrea|2006
+Silver|64960|Eritrea|2006
+Bronze|20316|Eritrea|2006
+Gold|174006|Eritrea|2008
+Silver|61763|Eritrea|2008
+Bronze|11744|Eritrea|2008
+Gold|124449|Eritrea|2010
+Silver|49681|Eritrea|2010
+Bronze|25885|Eritrea|2010
+Gold|175151|Eritrea|2012
+Silver|78895|Eritrea|2012
+Bronze|13911|Eritrea|2012
+Gold|138107|Estonia|2000
+Silver|53608|Estonia|2000
+Bronze|12549|Estonia|2000
+Gold|165790|Estonia|2002
+Silver|64115|Estonia|2002
+Bronze|16308|Estonia|2002
+Gold|184469|Estonia|2004
+Silver|43626|Estonia|2004
+Bronze|27025|Estonia|2004
+Gold|189214|Estonia|2006
+Silver|74577|Estonia|2006
+Bronze|29936|Estonia|2006
+Gold|106454|Estonia|2008
+Silver|55643|Estonia|2008
+Bronze|10490|Estonia|2008
+Gold|199978|Estonia|2010
+Silver|61797|Estonia|2010
+Bronze|15934|Estonia|2010
+Gold|192064|Estonia|2012
+Silver|49796|Estonia|2012
+Bronze|18149|Estonia|2012
+Gold|198746|Ethiopia|2000
+Silver|51727|Ethiopia|2000
+Bronze|15548|Ethiopia|2000
+Gold|108934|Ethiopia|2002
+Silver|76500|Ethiopia|2002
+Bronze|22921|Ethiopia|2002
+Gold|154896|Ethiopia|2004
+Silver|55184|Ethiopia|2004
+Bronze|12799|Ethiopia|2004
+Gold|104874|Ethiopia|2006
+Silver|48044|Ethiopia|2006
+Bronze|28007|Ethiopia|2006
+Gold|175142|Ethiopia|2008
+Silver|64848|Ethiopia|2008
+Bronze|27815|Ethiopia|2008
+Gold|199375|Ethiopia|2010
+Silver|66872|Ethiopia|2010
+Bronze|11113|Ethiopia|2010
+Gold|135394|Ethiopia|2012
+Silver|62052|Ethiopia|2012
+Bronze|11748|Ethiopia|2012
+Gold|169855|Finland|2000
+Silver|43041|Finland|2000
+Bronze|21101|Finland|2000
+Gold|127368|Finland|2002
+Silver|53463|Finland|2002
+Bronze|22187|Finland|2002
+Gold|110731|Finland|2004
+Silver|60873|Finland|2004
+Bronze|20618|Finland|2004
+Gold|117412|Finland|2006
+Silver|43814|Finland|2006
+Bronze|13070|Finland|2006
+Gold|97904|Finland|2008
+Silver|78726|Finland|2008
+Bronze|20854|Finland|2008
+Gold|133093|Finland|2010
+Silver|49262|Finland|2010
+Bronze|22158|Finland|2010
+Gold|168495|Finland|2012
+Silver|47044|Finland|2012
+Bronze|21480|Finland|2012
+Gold|117870|France|2000
+Silver|61190|France|2000
+Bronze|14705|France|2000
+Gold|109732|France|2002
+Silver|50613|France|2002
+Bronze|23094|France|2002
+Gold|135923|France|2004
+Silver|40260|France|2004
+Bronze|22460|France|2004
+Gold|169619|France|2006
+Silver|46882|France|2006
+Bronze|19437|France|2006
+Gold|157936|France|2008
+Silver|44272|France|2008
+Bronze|22727|France|2008
+Gold|114526|France|2010
+Silver|42404|France|2010
+Bronze|22320|France|2010
+Gold|94499|France|2012
+Silver|55199|France|2012
+Bronze|17400|France|2012
+Gold|121041|Gabon|2000
+Silver|76634|Gabon|2000
+Bronze|27093|Gabon|2000
+Gold|100513|Gabon|2002
+Silver|65138|Gabon|2002
+Bronze|17710|Gabon|2002
+Gold|175256|Gabon|2004
+Silver|65329|Gabon|2004
+Bronze|15771|Gabon|2004
+Gold|197756|Gabon|2006
+Silver|70532|Gabon|2006
+Bronze|15732|Gabon|2006
+Gold|142265|Gabon|2008
+Silver|62398|Gabon|2008
+Bronze|27509|Gabon|2008
+Gold|166418|Gabon|2010
+Silver|55697|Gabon|2010
+Bronze|18620|Gabon|2010
+Gold|174737|Gabon|2012
+Silver|58604|Gabon|2012
+Bronze|11585|Gabon|2012
+Gold|166128|Georgia|2000
+Silver|60697|Georgia|2000
+Bronze|22109|Georgia|2000
+Gold|153274|Georgia|2002
+Silver|78347|Georgia|2002
+Bronze|23101|Georgia|2002
+Gold|189673|Georgia|2004
+Silver|63811|Georgia|2004
+Bronze|17577|Georgia|2004
+Gold|179331|Georgia|2006
+Silver|78990|Georgia|2006
+Bronze|13813|Georgia|2006
+Gold|93850|Georgia|2008
+Silver|74576|Georgia|2008
+Bronze|16523|Georgia|2008
+Gold|150165|Georgia|2010
+Silver|42075|Georgia|2010
+Bronze|27262|Georgia|2010
+Gold|180878|Georgia|2012
+Silver|61489|Georgia|2012
+Bronze|21547|Georgia|2012
+Gold|102196|Germany|2000
+Silver|52336|Germany|2000
+Bronze|12392|Germany|2000
+Gold|113275|Germany|2002
+Silver|47529|Germany|2002
+Bronze|21453|Germany|2002
+Gold|91455|Germany|2004
+Silver|65510|Germany|2004
+Bronze|29609|Germany|2004
+Gold|134637|Germany|2006
+Silver|52077|Germany|2006
+Bronze|13452|Germany|2006
+Gold|185079|Germany|2008
+Silver|73717|Germany|2008
+Bronze|24004|Germany|2008
+Gold|93247|Germany|2010
+Silver|73333|Germany|2010
+Bronze|26764|Germany|2010
+Gold|195837|Germany|2012
+Silver|69604|Germany|2012
+Bronze|22534|Germany|2012
+Gold|181219|Great Britain|2000
+Silver|47222|Great Britain|2000
+Bronze|29378|Great Britain|2000
+Gold|121250|Great Britain|2002
+Silver|61745|Great Britain|2002
+Bronze|19018|Great Britain|2002
+Gold|177542|Great Britain|2004
+Silver|43317|Great Britain|2004
+Bronze|16842|Great Britain|2004
+Gold|165906|Great Britain|2006
+Silver|72665|Great Britain|2006
+Bronze|18930|Great Britain|2006
+Gold|97891|Great Britain|2008
+Silver|57731|Great Britain|2008
+Bronze|26227|Great Britain|2008
+Gold|177251|Great Britain|2010
+Silver|69426|Great Britain|2010
+Bronze|26258|Great Britain|2010
+Gold|145056|Great Britain|2012
+Silver|62756|Great Britain|2012
+Bronze|13545|Great Britain|2012
+Gold|120684|Greece|2000
+Silver|51936|Greece|2000
+Bronze|20081|Greece|2000
+Gold|132354|Greece|2002
+Silver|43443|Greece|2002
+Bronze|27678|Greece|2002
+Gold|133563|Greece|2004
+Silver|70062|Greece|2004
+Bronze|26968|Greece|2004
+Gold|173292|Greece|2006
+Silver|60726|Greece|2006
+Bronze|18497|Greece|2006
+Gold|138890|Greece|2008
+Silver|75703|Greece|2008
+Bronze|19596|Greece|2008
+Gold|134940|Greece|2010
+Silver|69061|Greece|2010
+Bronze|11242|Greece|2010
+Gold|140105|Greece|2012
+Silver|67653|Greece|2012
+Bronze|10646|Greece|2012
+Gold|125783|Grenada|2000
+Silver|79050|Grenada|2000
+Bronze|25012|Grenada|2000
+Gold|187778|Grenada|2002
+Silver|76319|Grenada|2002
+Bronze|15053|Grenada|2002
+Gold|151654|Grenada|2004
+Silver|66405|Grenada|2004
+Bronze|28874|Grenada|2004
+Gold|148297|Grenada|2006
+Silver|72237|Grenada|2006
+Bronze|23579|Grenada|2006
+Gold|98975|Grenada|2008
+Silver|47716|Grenada|2008
+Bronze|24295|Grenada|2008
+Gold|165147|Grenada|2010
+Silver|50950|Grenada|2010
+Bronze|28679|Grenada|2010
+Gold|198272|Grenada|2012
+Silver|44550|Grenada|2012
+Bronze|23595|Grenada|2012
+Gold|155920|Guatemala|2000
+Silver|64110|Guatemala|2000
+Bronze|27536|Guatemala|2000
+Gold|163480|Guatemala|2002
+Silver|52145|Guatemala|2002
+Bronze|27500|Guatemala|2002
+Gold|117766|Guatemala|2004
+Silver|40688|Guatemala|2004
+Bronze|11639|Guatemala|2004
+Gold|145028|Guatemala|2006
+Silver|62238|Guatemala|2006
+Bronze|13542|Guatemala|2006
+Gold|197120|Guatemala|2008
+Silver|55760|Guatemala|2008
+Bronze|12560|Guatemala|2008
+Gold|147279|Guatemala|2010
+Silver|64620|Guatemala|2010
+Bronze|27143|Guatemala|2010
+Gold|157842|Guatemala|2012
+Silver|60285|Guatemala|2012
+Bronze|18369|Guatemala|2012
+Gold|90546|Hong Kong|2000
+Silver|47200|Hong Kong|2000
+Bronze|25946|Hong Kong|2000
+Gold|142689|Hong Kong|2002
+Silver|58232|Hong Kong|2002
+Bronze|16669|Hong Kong|2002
+Gold|158623|Hong Kong|2004
+Silver|57309|Hong Kong|2004
+Bronze|23040|Hong Kong|2004
+Gold|114665|Hong Kong|2006
+Silver|78083|Hong Kong|2006
+Bronze|11809|Hong Kong|2006
+Gold|146764|Hong Kong|2008
+Silver|64761|Hong Kong|2008
+Bronze|24055|Hong Kong|2008
+Gold|146782|Hong Kong|2010
+Silver|62664|Hong Kong|2010
+Bronze|23139|Hong Kong|2010
+Gold|124846|Hong Kong|2012
+Silver|55776|Hong Kong|2012
+Bronze|18082|Hong Kong|2012
+Gold|185445|Hungary|2000
+Silver|76976|Hungary|2000
+Bronze|27926|Hungary|2000
+Gold|144986|Hungary|2002
+Silver|45339|Hungary|2002
+Bronze|24809|Hungary|2002
+Gold|158976|Hungary|2004
+Silver|73465|Hungary|2004
+Bronze|20739|Hungary|2004
+Gold|156297|Hungary|2006
+Silver|73669|Hungary|2006
+Bronze|19925|Hungary|2006
+Gold|106681|Hungary|2008
+Silver|58093|Hungary|2008
+Bronze|24574|Hungary|2008
+Gold|105744|Hungary|2010
+Silver|51748|Hungary|2010
+Bronze|21560|Hungary|2010
+Gold|184845|Hungary|2012
+Silver|66964|Hungary|2012
+Bronze|19793|Hungary|2012
+Gold|112488|Iceland|2000
+Silver|71777|Iceland|2000
+Bronze|12296|Iceland|2000
+Gold|160611|Iceland|2002
+Silver|47472|Iceland|2002
+Bronze|28208|Iceland|2002
+Gold|113558|Iceland|2004
+Silver|47514|Iceland|2004
+Bronze|24246|Iceland|2004
+Gold|112800|Iceland|2006
+Silver|41095|Iceland|2006
+Bronze|28409|Iceland|2006
+Gold|104684|Iceland|2008
+Silver|59050|Iceland|2008
+Bronze|26521|Iceland|2008
+Gold|90111|Iceland|2010
+Silver|61141|Iceland|2010
+Bronze|26120|Iceland|2010
+Gold|173133|Iceland|2012
+Silver|67313|Iceland|2012
+Bronze|28683|Iceland|2012
+Gold|144431|India|2000
+Silver|60668|India|2000
+Bronze|19727|India|2000
+Gold|187097|India|2002
+Silver|40685|India|2002
+Bronze|25602|India|2002
+Gold|199303|India|2004
+Silver|74043|India|2004
+Bronze|17839|India|2004
+Gold|183709|India|2006
+Silver|47628|India|2006
+Bronze|19129|India|2006
+Gold|162770|India|2008
+Silver|77775|India|2008
+Bronze|15938|India|2008
+Gold|100246|India|2010
+Silver|64965|India|2010
+Bronze|24466|India|2010
+Gold|90740|India|2012
+Silver|47467|India|2012
+Bronze|20334|India|2012
+Gold|144239|Indonesia|2000
+Silver|47433|Indonesia|2000
+Bronze|21071|Indonesia|2000
+Gold|168088|Indonesia|2002
+Silver|66322|Indonesia|2002
+Bronze|20655|Indonesia|2002
+Gold|127389|Indonesia|2004
+Silver|67985|Indonesia|2004
+Bronze|11752|Indonesia|2004
+Gold|101277|Indonesia|2006
+Silver|73890|Indonesia|2006
+Bronze|24979|Indonesia|2006
+Gold|199577|Indonesia|2008
+Silver|59577|Indonesia|2008
+Bronze|18748|Indonesia|2008
+Gold|126223|Indonesia|2010
+Silver|62798|Indonesia|2010
+Bronze|13109|Indonesia|2010
+Gold|155465|Indonesia|2012
+Silver|46706|Indonesia|2012
+Bronze|14479|Indonesia|2012
+Gold|130293|Iran|2000
+Silver|43143|Iran|2000
+Bronze|19647|Iran|2000
+Gold|177951|Iran|2002
+Silver|73532|Iran|2002
+Bronze|12428|Iran|2002
+Gold|138038|Iran|2004
+Silver|52843|Iran|2004
+Bronze|23053|Iran|2004
+Gold|110965|Iran|2006
+Silver|57328|Iran|2006
+Bronze|22699|Iran|2006
+Gold|109988|Iran|2008
+Silver|50295|Iran|2008
+Bronze|16492|Iran|2008
+Gold|90655|Iran|2010
+Silver|74020|Iran|2010
+Bronze|19078|Iran|2010
+Gold|150399|Iran|2012
+Silver|44962|Iran|2012
+Bronze|11726|Iran|2012
+Gold|116124|Ireland|2000
+Silver|59341|Ireland|2000
+Bronze|12783|Ireland|2000
+Gold|197514|Ireland|2002
+Silver|56129|Ireland|2002
+Bronze|21216|Ireland|2002
+Gold|127501|Ireland|2004
+Silver|45079|Ireland|2004
+Bronze|24151|Ireland|2004
+Gold|126941|Ireland|2006
+Silver|75499|Ireland|2006
+Bronze|19769|Ireland|2006
+Gold|169877|Ireland|2008
+Silver|51051|Ireland|2008
+Bronze|21471|Ireland|2008
+Gold|106987|Ireland|2010
+Silver|59557|Ireland|2010
+Bronze|14101|Ireland|2010
+Gold|98758|Ireland|2012
+Silver|54577|Ireland|2012
+Bronze|23021|Ireland|2012
+Gold|97332|Israel|2000
+Silver|49805|Israel|2000
+Bronze|23058|Israel|2000
+Gold|157137|Israel|2002
+Silver|63892|Israel|2002
+Bronze|27650|Israel|2002
+Gold|171301|Israel|2004
+Silver|61844|Israel|2004
+Bronze|26067|Israel|2004
+Gold|197626|Israel|2006
+Silver|61610|Israel|2006
+Bronze|26484|Israel|2006
+Gold|176269|Israel|2008
+Silver|55776|Israel|2008
+Bronze|20422|Israel|2008
+Gold|131608|Israel|2010
+Silver|73800|Israel|2010
+Bronze|15570|Israel|2010
+Gold|124399|Israel|2012
+Silver|78856|Israel|2012
+Bronze|19642|Israel|2012
+Gold|132230|Italy|2000
+Silver|61949|Italy|2000
+Bronze|17702|Italy|2000
+Gold|93439|Italy|2002
+Silver|56529|Italy|2002
+Bronze|21914|Italy|2002
+Gold|189753|Italy|2004
+Silver|61017|Italy|2004
+Bronze|18955|Italy|2004
+Gold|174755|Italy|2006
+Silver|69348|Italy|2006
+Bronze|25502|Italy|2006
+Gold|161852|Italy|2008
+Silver|54265|Italy|2008
+Bronze|12737|Italy|2008
+Gold|139883|Italy|2010
+Silver|64590|Italy|2010
+Bronze|16648|Italy|2010
+Gold|121580|Italy|2012
+Silver|43934|Italy|2012
+Bronze|22997|Italy|2012
+Gold|133940|Jamaica|2000
+Silver|50353|Jamaica|2000
+Bronze|28742|Jamaica|2000
+Gold|192820|Jamaica|2002
+Silver|51831|Jamaica|2002
+Bronze|28210|Jamaica|2002
+Gold|190696|Jamaica|2004
+Silver|46687|Jamaica|2004
+Bronze|21405|Jamaica|2004
+Gold|91833|Jamaica|2006
+Silver|79680|Jamaica|2006
+Bronze|24862|Jamaica|2006
+Gold|108223|Jamaica|2008
+Silver|41330|Jamaica|2008
+Bronze|14743|Jamaica|2008
+Gold|118715|Jamaica|2010
+Silver|72387|Jamaica|2010
+Bronze|22155|Jamaica|2010
+Gold|181501|Jamaica|2012
+Silver|70558|Jamaica|2012
+Bronze|28276|Jamaica|2012
+Gold|191209|Japan|2000
+Silver|47665|Japan|2000
+Bronze|23253|Japan|2000
+Gold|161614|Japan|2002
+Silver|49491|Japan|2002
+Bronze|19472|Japan|2002
+Gold|173123|Japan|2004
+Silver|68516|Japan|2004
+Bronze|22633|Japan|2004
+Gold|178619|Japan|2006
+Silver|63946|Japan|2006
+Bronze|27982|Japan|2006
+Gold|185110|Japan|2008
+Silver|74009|Japan|2008
+Bronze|19546|Japan|2008
+Gold|182876|Japan|2010
+Silver|78495|Japan|2010
+Bronze|24975|Japan|2010
+Gold|111671|Japan|2012
+Silver|64740|Japan|2012
+Bronze|24851|Japan|2012
+Gold|95454|Kazakhstan|2000
+Silver|58405|Kazakhstan|2000
+Bronze|20712|Kazakhstan|2000
+Gold|193464|Kazakhstan|2002
+Silver|59709|Kazakhstan|2002
+Bronze|11955|Kazakhstan|2002
+Gold|193815|Kazakhstan|2004
+Silver|59203|Kazakhstan|2004
+Bronze|10944|Kazakhstan|2004
+Gold|93832|Kazakhstan|2006
+Silver|68987|Kazakhstan|2006
+Bronze|21302|Kazakhstan|2006
+Gold|95670|Kazakhstan|2008
+Silver|59097|Kazakhstan|2008
+Bronze|19539|Kazakhstan|2008
+Gold|134671|Kazakhstan|2010
+Silver|67237|Kazakhstan|2010
+Bronze|16592|Kazakhstan|2010
+Gold|103576|Kazakhstan|2012
+Silver|55355|Kazakhstan|2012
+Bronze|24914|Kazakhstan|2012
+Gold|142513|Kenya|2000
+Silver|46523|Kenya|2000
+Bronze|23514|Kenya|2000
+Gold|186420|Kenya|2002
+Silver|59642|Kenya|2002
+Bronze|14595|Kenya|2002
+Gold|127120|Kenya|2004
+Silver|67622|Kenya|2004
+Bronze|18707|Kenya|2004
+Gold|135511|Kenya|2006
+Silver|68330|Kenya|2006
+Bronze|12687|Kenya|2006
+Gold|197712|Kenya|2008
+Silver|54797|Kenya|2008
+Bronze|29542|Kenya|2008
+Gold|134374|Kenya|2010
+Silver|77142|Kenya|2010
+Bronze|11948|Kenya|2010
+Gold|198631|Kenya|2012
+Silver|43025|Kenya|2012
+Bronze|25429|Kenya|2012
+Gold|169426|Kuwait|2000
+Silver|68126|Kuwait|2000
+Bronze|14804|Kuwait|2000
+Gold|96428|Kuwait|2002
+Silver|52265|Kuwait|2002
+Bronze|10699|Kuwait|2002
+Gold|108187|Kuwait|2004
+Silver|55342|Kuwait|2004
+Bronze|27272|Kuwait|2004
+Gold|167062|Kuwait|2006
+Silver|41241|Kuwait|2006
+Bronze|25732|Kuwait|2006
+Gold|126650|Kuwait|2008
+Silver|73613|Kuwait|2008
+Bronze|28916|Kuwait|2008
+Gold|166494|Kuwait|2010
+Silver|65692|Kuwait|2010
+Bronze|23417|Kuwait|2010
+Gold|175146|Kuwait|2012
+Silver|55446|Kuwait|2012
+Bronze|17449|Kuwait|2012
+Gold|180140|Kyrgyzstan|2000
+Silver|76356|Kyrgyzstan|2000
+Bronze|15311|Kyrgyzstan|2000
+Gold|183468|Kyrgyzstan|2002
+Silver|62694|Kyrgyzstan|2002
+Bronze|25902|Kyrgyzstan|2002
+Gold|137524|Kyrgyzstan|2004
+Silver|73653|Kyrgyzstan|2004
+Bronze|20823|Kyrgyzstan|2004
+Gold|111841|Kyrgyzstan|2006
+Silver|58092|Kyrgyzstan|2006
+Bronze|23822|Kyrgyzstan|2006
+Gold|173602|Kyrgyzstan|2008
+Silver|72768|Kyrgyzstan|2008
+Bronze|15217|Kyrgyzstan|2008
+Gold|149652|Kyrgyzstan|2010
+Silver|44297|Kyrgyzstan|2010
+Bronze|21643|Kyrgyzstan|2010
+Gold|179225|Kyrgyzstan|2012
+Silver|70666|Kyrgyzstan|2012
+Bronze|25125|Kyrgyzstan|2012
+Gold|94857|Latvia|2000
+Silver|41056|Latvia|2000
+Bronze|18528|Latvia|2000
+Gold|148732|Latvia|2002
+Silver|69882|Latvia|2002
+Bronze|17985|Latvia|2002
+Gold|181171|Latvia|2004
+Silver|60432|Latvia|2004
+Bronze|14220|Latvia|2004
+Gold|103133|Latvia|2006
+Silver|43849|Latvia|2006
+Bronze|12418|Latvia|2006
+Gold|152799|Latvia|2008
+Silver|52711|Latvia|2008
+Bronze|23463|Latvia|2008
+Gold|119001|Latvia|2010
+Silver|72939|Latvia|2010
+Bronze|21066|Latvia|2010
+Gold|189519|Latvia|2012
+Silver|42666|Latvia|2012
+Bronze|26746|Latvia|2012
+Gold|142751|Lithuania|2000
+Silver|74988|Lithuania|2000
+Bronze|18496|Lithuania|2000
+Gold|172906|Lithuania|2002
+Silver|74240|Lithuania|2002
+Bronze|23367|Lithuania|2002
+Gold|168306|Lithuania|2004
+Silver|53990|Lithuania|2004
+Bronze|10155|Lithuania|2004
+Gold|111491|Lithuania|2006
+Silver|65965|Lithuania|2006
+Bronze|13375|Lithuania|2006
+Gold|150010|Lithuania|2008
+Silver|43568|Lithuania|2008
+Bronze|28555|Lithuania|2008
+Gold|160137|Lithuania|2010
+Silver|65608|Lithuania|2010
+Bronze|11184|Lithuania|2010
+Gold|103304|Lithuania|2012
+Silver|73478|Lithuania|2012
+Bronze|23139|Lithuania|2012
+Gold|199935|Macedonia|2000
+Silver|64034|Macedonia|2000
+Bronze|19238|Macedonia|2000
+Gold|167266|Macedonia|2002
+Silver|71127|Macedonia|2002
+Bronze|20760|Macedonia|2002
+Gold|135447|Macedonia|2004
+Silver|58032|Macedonia|2004
+Bronze|29227|Macedonia|2004
+Gold|144259|Macedonia|2006
+Silver|55750|Macedonia|2006
+Bronze|13895|Macedonia|2006
+Gold|131225|Macedonia|2008
+Silver|62714|Macedonia|2008
+Bronze|15247|Macedonia|2008
+Gold|147874|Macedonia|2010
+Silver|52824|Macedonia|2010
+Bronze|16439|Macedonia|2010
+Gold|145433|Macedonia|2012
+Silver|67064|Macedonia|2012
+Bronze|19318|Macedonia|2012
+Gold|142706|Malaysia|2000
+Silver|55538|Malaysia|2000
+Bronze|18079|Malaysia|2000
+Gold|101601|Malaysia|2002
+Silver|65462|Malaysia|2002
+Bronze|23030|Malaysia|2002
+Gold|154829|Malaysia|2004
+Silver|51780|Malaysia|2004
+Bronze|20337|Malaysia|2004
+Gold|196877|Malaysia|2006
+Silver|46039|Malaysia|2006
+Bronze|28756|Malaysia|2006
+Gold|199486|Malaysia|2008
+Silver|69300|Malaysia|2008
+Bronze|12633|Malaysia|2008
+Gold|114129|Malaysia|2010
+Silver|55081|Malaysia|2010
+Bronze|18024|Malaysia|2010
+Gold|142677|Malaysia|2012
+Silver|75679|Malaysia|2012
+Bronze|14983|Malaysia|2012
+Gold|94459|Mauritius|2000
+Silver|43037|Mauritius|2000
+Bronze|15501|Mauritius|2000
+Gold|165450|Mauritius|2002
+Silver|41612|Mauritius|2002
+Bronze|12579|Mauritius|2002
+Gold|163384|Mauritius|2004
+Silver|58769|Mauritius|2004
+Bronze|17621|Mauritius|2004
+Gold|99643|Mauritius|2006
+Silver|73131|Mauritius|2006
+Bronze|26703|Mauritius|2006
+Gold|176830|Mauritius|2008
+Silver|65244|Mauritius|2008
+Bronze|11843|Mauritius|2008
+Gold|155388|Mauritius|2010
+Silver|73670|Mauritius|2010
+Bronze|23382|Mauritius|2010
+Gold|98483|Mauritius|2012
+Silver|42479|Mauritius|2012
+Bronze|21706|Mauritius|2012
+Gold|175291|Mexico|2000
+Silver|77613|Mexico|2000
+Bronze|18215|Mexico|2000
+Gold|126542|Mexico|2002
+Silver|46932|Mexico|2002
+Bronze|28228|Mexico|2002
+Gold|148954|Mexico|2004
+Silver|64422|Mexico|2004
+Bronze|15051|Mexico|2004
+Gold|197132|Mexico|2006
+Silver|70259|Mexico|2006
+Bronze|11083|Mexico|2006
+Gold|125063|Mexico|2008
+Silver|41338|Mexico|2008
+Bronze|18840|Mexico|2008
+Gold|176120|Mexico|2010
+Silver|73294|Mexico|2010
+Bronze|23273|Mexico|2010
+Gold|145184|Mexico|2012
+Silver|61221|Mexico|2012
+Bronze|14583|Mexico|2012
+Gold|131597|Moldova|2000
+Silver|44960|Moldova|2000
+Bronze|14521|Moldova|2000
+Gold|158855|Moldova|2002
+Silver|55431|Moldova|2002
+Bronze|14900|Moldova|2002
+Gold|127616|Moldova|2004
+Silver|50416|Moldova|2004
+Bronze|16424|Moldova|2004
+Gold|152793|Moldova|2006
+Silver|44730|Moldova|2006
+Bronze|24675|Moldova|2006
+Gold|121668|Moldova|2008
+Silver|74299|Moldova|2008
+Bronze|14173|Moldova|2008
+Gold|102489|Moldova|2010
+Silver|40252|Moldova|2010
+Bronze|20855|Moldova|2010
+Gold|119224|Moldova|2012
+Silver|76568|Moldova|2012
+Bronze|15146|Moldova|2012
+Gold|96252|Mongolia|2000
+Silver|66241|Mongolia|2000
+Bronze|16752|Mongolia|2000
+Gold|103579|Mongolia|2002
+Silver|70135|Mongolia|2002
+Bronze|13653|Mongolia|2002
+Gold|154129|Mongolia|2004
+Silver|74365|Mongolia|2004
+Bronze|16240|Mongolia|2004
+Gold|104667|Mongolia|2006
+Silver|48920|Mongolia|2006
+Bronze|12946|Mongolia|2006
+Gold|176590|Mongolia|2008
+Silver|53149|Mongolia|2008
+Bronze|27749|Mongolia|2008
+Gold|141583|Mongolia|2010
+Silver|61449|Mongolia|2010
+Bronze|22530|Mongolia|2010
+Gold|141675|Mongolia|2012
+Silver|51688|Mongolia|2012
+Bronze|11720|Mongolia|2012
+Gold|155139|Montenegro|2000
+Silver|75783|Montenegro|2000
+Bronze|29072|Montenegro|2000
+Gold|161940|Montenegro|2002
+Silver|63206|Montenegro|2002
+Bronze|24222|Montenegro|2002
+Gold|171533|Montenegro|2004
+Silver|73294|Montenegro|2004
+Bronze|17319|Montenegro|2004
+Gold|166632|Montenegro|2006
+Silver|41178|Montenegro|2006
+Bronze|20482|Montenegro|2006
+Gold|170354|Montenegro|2008
+Silver|66302|Montenegro|2008
+Bronze|15024|Montenegro|2008
+Gold|131831|Montenegro|2010
+Silver|49278|Montenegro|2010
+Bronze|25080|Montenegro|2010
+Gold|136255|Montenegro|2012
+Silver|49031|Montenegro|2012
+Bronze|26176|Montenegro|2012
+Gold|115155|Morocco|2000
+Silver|79674|Morocco|2000
+Bronze|20131|Morocco|2000
+Gold|151022|Morocco|2002
+Silver|76844|Morocco|2002
+Bronze|16384|Morocco|2002
+Gold|175934|Morocco|2004
+Silver|53900|Morocco|2004
+Bronze|10600|Morocco|2004
+Gold|114143|Morocco|2006
+Silver|74968|Morocco|2006
+Bronze|15450|Morocco|2006
+Gold|94700|Morocco|2008
+Silver|54062|Morocco|2008
+Bronze|11791|Morocco|2008
+Gold|154825|Morocco|2010
+Silver|74506|Morocco|2010
+Bronze|15445|Morocco|2010
+Gold|99031|Morocco|2012
+Silver|57308|Morocco|2012
+Bronze|19662|Morocco|2012
+Gold|103514|Mozambique|2000
+Silver|44366|Mozambique|2000
+Bronze|15713|Mozambique|2000
+Gold|108625|Mozambique|2002
+Silver|48037|Mozambique|2002
+Bronze|13362|Mozambique|2002
+Gold|176997|Mozambique|2004
+Silver|42232|Mozambique|2004
+Bronze|18016|Mozambique|2004
+Gold|172080|Mozambique|2006
+Silver|68682|Mozambique|2006
+Bronze|15637|Mozambique|2006
+Gold|141149|Mozambique|2008
+Silver|60440|Mozambique|2008
+Bronze|17072|Mozambique|2008
+Gold|112916|Mozambique|2010
+Silver|59389|Mozambique|2010
+Bronze|26461|Mozambique|2010
+Gold|137409|Mozambique|2012
+Silver|78056|Mozambique|2012
+Bronze|25436|Mozambique|2012
+Gold|96869|Netherlands|2000
+Silver|68140|Netherlands|2000
+Bronze|19502|Netherlands|2000
+Gold|138253|Netherlands|2002
+Silver|65799|Netherlands|2002
+Bronze|28311|Netherlands|2002
+Gold|145550|Netherlands|2004
+Silver|50985|Netherlands|2004
+Bronze|22757|Netherlands|2004
+Gold|141766|Netherlands|2006
+Silver|54394|Netherlands|2006
+Bronze|15191|Netherlands|2006
+Gold|131126|Netherlands|2008
+Silver|67815|Netherlands|2008
+Bronze|11030|Netherlands|2008
+Gold|125391|Netherlands|2010
+Silver|46744|Netherlands|2010
+Bronze|17608|Netherlands|2010
+Gold|118992|Netherlands|2012
+Silver|43725|Netherlands|2012
+Bronze|18977|Netherlands|2012
+Gold|188223|New Zealand|2000
+Silver|65062|New Zealand|2000
+Bronze|12053|New Zealand|2000
+Gold|112704|New Zealand|2002
+Silver|44898|New Zealand|2002
+Bronze|23363|New Zealand|2002
+Gold|93057|New Zealand|2004
+Silver|43193|New Zealand|2004
+Bronze|11112|New Zealand|2004
+Gold|164542|New Zealand|2006
+Silver|55949|New Zealand|2006
+Bronze|22450|New Zealand|2006
+Gold|144364|New Zealand|2008
+Silver|48239|New Zealand|2008
+Bronze|16723|New Zealand|2008
+Gold|162676|New Zealand|2010
+Silver|52596|New Zealand|2010
+Bronze|15657|New Zealand|2010
+Gold|146330|New Zealand|2012
+Silver|78916|New Zealand|2012
+Bronze|20811|New Zealand|2012
+Gold|191337|Nigeria|2000
+Silver|62467|Nigeria|2000
+Bronze|14305|Nigeria|2000
+Gold|97800|Nigeria|2002
+Silver|54937|Nigeria|2002
+Bronze|28177|Nigeria|2002
+Gold|122993|Nigeria|2004
+Silver|78419|Nigeria|2004
+Bronze|19244|Nigeria|2004
+Gold|107419|Nigeria|2006
+Silver|50499|Nigeria|2006
+Bronze|10673|Nigeria|2006
+Gold|175014|Nigeria|2008
+Silver|57176|Nigeria|2008
+Bronze|16673|Nigeria|2008
+Gold|141371|Nigeria|2010
+Silver|72960|Nigeria|2010
+Bronze|14268|Nigeria|2010
+Gold|115578|Nigeria|2012
+Silver|61341|Nigeria|2012
+Bronze|15891|Nigeria|2012
+Gold|197534|North Korea|2000
+Silver|48579|North Korea|2000
+Bronze|13003|North Korea|2000
+Gold|93942|North Korea|2002
+Silver|78243|North Korea|2002
+Bronze|23856|North Korea|2002
+Gold|108800|North Korea|2004
+Silver|76122|North Korea|2004
+Bronze|24343|North Korea|2004
+Gold|183537|North Korea|2006
+Silver|51430|North Korea|2006
+Bronze|12763|North Korea|2006
+Gold|135903|North Korea|2008
+Silver|54545|North Korea|2008
+Bronze|14171|North Korea|2008
+Gold|178769|North Korea|2010
+Silver|54632|North Korea|2010
+Bronze|20101|North Korea|2010
+Gold|91263|North Korea|2012
+Silver|79351|North Korea|2012
+Bronze|25789|North Korea|2012
+Gold|185028|Norway|2000
+Silver|56669|Norway|2000
+Bronze|29850|Norway|2000
+Gold|126512|Norway|2002
+Silver|66283|Norway|2002
+Bronze|21336|Norway|2002
+Gold|128485|Norway|2004
+Silver|60969|Norway|2004
+Bronze|19262|Norway|2004
+Gold|105656|Norway|2006
+Silver|45673|Norway|2006
+Bronze|23139|Norway|2006
+Gold|188784|Norway|2008
+Silver|46733|Norway|2008
+Bronze|18273|Norway|2008
+Gold|94098|Norway|2010
+Silver|65768|Norway|2010
+Bronze|19251|Norway|2010
+Gold|174815|Norway|2012
+Silver|54015|Norway|2012
+Bronze|10542|Norway|2012
+Gold|196039|Panama|2000
+Silver|61387|Panama|2000
+Bronze|18307|Panama|2000
+Gold|96136|Panama|2002
+Silver|48686|Panama|2002
+Bronze|14709|Panama|2002
+Gold|183306|Panama|2004
+Silver|49988|Panama|2004
+Bronze|16419|Panama|2004
+Gold|106084|Panama|2006
+Silver|47781|Panama|2006
+Bronze|11558|Panama|2006
+Gold|107723|Panama|2008
+Silver|76266|Panama|2008
+Bronze|10791|Panama|2008
+Gold|105944|Panama|2010
+Silver|54715|Panama|2010
+Bronze|25638|Panama|2010
+Gold|157325|Panama|2012
+Silver|50115|Panama|2012
+Bronze|23482|Panama|2012
+Gold|143197|Paraguay|2000
+Silver|68606|Paraguay|2000
+Bronze|21539|Paraguay|2000
+Gold|193063|Paraguay|2002
+Silver|68108|Paraguay|2002
+Bronze|18586|Paraguay|2002
+Gold|128451|Paraguay|2004
+Silver|49898|Paraguay|2004
+Bronze|19491|Paraguay|2004
+Gold|121588|Paraguay|2006
+Silver|43348|Paraguay|2006
+Bronze|13752|Paraguay|2006
+Gold|167908|Paraguay|2008
+Silver|48500|Paraguay|2008
+Bronze|29446|Paraguay|2008
+Gold|130726|Paraguay|2010
+Silver|75413|Paraguay|2010
+Bronze|17343|Paraguay|2010
+Gold|190458|Paraguay|2012
+Silver|74784|Paraguay|2012
+Bronze|15754|Paraguay|2012
+Gold|163718|Poland|2000
+Silver|47858|Poland|2000
+Bronze|18391|Poland|2000
+Gold|119083|Poland|2002
+Silver|64894|Poland|2002
+Bronze|11480|Poland|2002
+Gold|155913|Poland|2004
+Silver|59694|Poland|2004
+Bronze|24907|Poland|2004
+Gold|111385|Poland|2006
+Silver|77490|Poland|2006
+Bronze|11462|Poland|2006
+Gold|177865|Poland|2008
+Silver|79180|Poland|2008
+Bronze|13404|Poland|2008
+Gold|163252|Poland|2010
+Silver|61193|Poland|2010
+Bronze|16060|Poland|2010
+Gold|112016|Poland|2012
+Silver|70500|Poland|2012
+Bronze|19735|Poland|2012
+Gold|189859|Portugal|2000
+Silver|79407|Portugal|2000
+Bronze|16240|Portugal|2000
+Gold|113844|Portugal|2002
+Silver|43889|Portugal|2002
+Bronze|21750|Portugal|2002
+Gold|91180|Portugal|2004
+Silver|71250|Portugal|2004
+Bronze|13024|Portugal|2004
+Gold|195869|Portugal|2006
+Silver|40459|Portugal|2006
+Bronze|12789|Portugal|2006
+Gold|153241|Portugal|2008
+Silver|46571|Portugal|2008
+Bronze|10105|Portugal|2008
+Gold|167126|Portugal|2010
+Silver|59992|Portugal|2010
+Bronze|27939|Portugal|2010
+Gold|193485|Portugal|2012
+Silver|53166|Portugal|2012
+Bronze|10432|Portugal|2012
+Gold|171756|Puerto Rico|2000
+Silver|76346|Puerto Rico|2000
+Bronze|14656|Puerto Rico|2000
+Gold|161810|Puerto Rico|2002
+Silver|75037|Puerto Rico|2002
+Bronze|28350|Puerto Rico|2002
+Gold|120450|Puerto Rico|2004
+Silver|46264|Puerto Rico|2004
+Bronze|13677|Puerto Rico|2004
+Gold|139485|Puerto Rico|2006
+Silver|53018|Puerto Rico|2006
+Bronze|16153|Puerto Rico|2006
+Gold|91779|Puerto Rico|2008
+Silver|44633|Puerto Rico|2008
+Bronze|15675|Puerto Rico|2008
+Gold|103689|Puerto Rico|2010
+Silver|55373|Puerto Rico|2010
+Bronze|19965|Puerto Rico|2010
+Gold|128523|Puerto Rico|2012
+Silver|49142|Puerto Rico|2012
+Bronze|28298|Puerto Rico|2012
+Gold|94571|Qatar|2000
+Silver|45223|Qatar|2000
+Bronze|29067|Qatar|2000
+Gold|161026|Qatar|2002
+Silver|59082|Qatar|2002
+Bronze|25374|Qatar|2002
+Gold|105369|Qatar|2004
+Silver|76410|Qatar|2004
+Bronze|21010|Qatar|2004
+Gold|196518|Qatar|2006
+Silver|56139|Qatar|2006
+Bronze|18092|Qatar|2006
+Gold|120625|Qatar|2008
+Silver|78029|Qatar|2008
+Bronze|11467|Qatar|2008
+Gold|122983|Qatar|2010
+Silver|66061|Qatar|2010
+Bronze|14391|Qatar|2010
+Gold|184376|Qatar|2012
+Silver|48165|Qatar|2012
+Bronze|22566|Qatar|2012
+Gold|104440|Romania|2000
+Silver|56201|Romania|2000
+Bronze|25172|Romania|2000
+Gold|99407|Romania|2002
+Silver|62178|Romania|2002
+Bronze|23603|Romania|2002
+Gold|183146|Romania|2004
+Silver|58452|Romania|2004
+Bronze|22597|Romania|2004
+Gold|141654|Romania|2006
+Silver|63311|Romania|2006
+Bronze|11454|Romania|2006
+Gold|132294|Romania|2008
+Silver|52766|Romania|2008
+Bronze|24556|Romania|2008
+Gold|110535|Romania|2010
+Silver|47869|Romania|2010
+Bronze|12061|Romania|2010
+Gold|100699|Romania|2012
+Silver|50428|Romania|2012
+Bronze|29356|Romania|2012
+Gold|169375|Russia|2000
+Silver|45456|Russia|2000
+Bronze|23943|Russia|2000
+Gold|192638|Russia|2002
+Silver|65435|Russia|2002
+Bronze|18925|Russia|2002
+Gold|115035|Russia|2004
+Silver|40617|Russia|2004
+Bronze|22451|Russia|2004
+Gold|101458|Russia|2006
+Silver|77624|Russia|2006
+Bronze|28644|Russia|2006
+Gold|134524|Russia|2008
+Silver|75026|Russia|2008
+Bronze|12973|Russia|2008
+Gold|125694|Russia|2010
+Silver|76216|Russia|2010
+Bronze|29042|Russia|2010
+Gold|132044|Russia|2012
+Silver|60359|Russia|2012
+Bronze|26658|Russia|2012
+Gold|154390|Saudi Arabia|2000
+Silver|74281|Saudi Arabia|2000
+Bronze|16287|Saudi Arabia|2000
+Gold|150590|Saudi Arabia|2002
+Silver|61612|Saudi Arabia|2002
+Bronze|24067|Saudi Arabia|2002
+Gold|162355|Saudi Arabia|2004
+Silver|70601|Saudi Arabia|2004
+Bronze|18490|Saudi Arabia|2004
+Gold|171826|Saudi Arabia|2006
+Silver|56753|Saudi Arabia|2006
+Bronze|12933|Saudi Arabia|2006
+Gold|101174|Saudi Arabia|2008
+Silver|78433|Saudi Arabia|2008
+Bronze|11605|Saudi Arabia|2008
+Gold|119433|Saudi Arabia|2010
+Silver|41364|Saudi Arabia|2010
+Bronze|21865|Saudi Arabia|2010
+Gold|174091|Saudi Arabia|2012
+Silver|66950|Saudi Arabia|2012
+Bronze|13126|Saudi Arabia|2012
+Gold|102584|Serbia|2000
+Silver|71578|Serbia|2000
+Bronze|29293|Serbia|2000
+Gold|91257|Serbia|2002
+Silver|41460|Serbia|2002
+Bronze|28413|Serbia|2002
+Gold|148572|Serbia|2004
+Silver|57167|Serbia|2004
+Bronze|21614|Serbia|2004
+Gold|123100|Serbia|2006
+Silver|56370|Serbia|2006
+Bronze|15743|Serbia|2006
+Gold|182693|Serbia|2008
+Silver|79110|Serbia|2008
+Bronze|21492|Serbia|2008
+Gold|114928|Serbia|2010
+Silver|63463|Serbia|2010
+Bronze|18306|Serbia|2010
+Gold|181435|Serbia|2012
+Silver|50730|Serbia|2012
+Bronze|18258|Serbia|2012
+Gold|96035|Serbia and Montenegro|2000
+Silver|50870|Serbia and Montenegro|2000
+Bronze|17431|Serbia and Montenegro|2000
+Gold|131171|Serbia and Montenegro|2002
+Silver|79057|Serbia and Montenegro|2002
+Bronze|21970|Serbia and Montenegro|2002
+Gold|158721|Serbia and Montenegro|2004
+Silver|56462|Serbia and Montenegro|2004
+Bronze|19768|Serbia and Montenegro|2004
+Gold|96829|Serbia and Montenegro|2006
+Silver|75211|Serbia and Montenegro|2006
+Bronze|23981|Serbia and Montenegro|2006
+Gold|192278|Serbia and Montenegro|2008
+Silver|54402|Serbia and Montenegro|2008
+Bronze|17674|Serbia and Montenegro|2008
+Gold|122778|Serbia and Montenegro|2010
+Silver|54334|Serbia and Montenegro|2010
+Bronze|14370|Serbia and Montenegro|2010
+Gold|95377|Serbia and Montenegro|2012
+Silver|57429|Serbia and Montenegro|2012
+Bronze|18847|Serbia and Montenegro|2012
+Gold|109160|Singapore|2000
+Silver|43768|Singapore|2000
+Bronze|15835|Singapore|2000
+Gold|111059|Singapore|2002
+Silver|76629|Singapore|2002
+Bronze|10970|Singapore|2002
+Gold|135859|Singapore|2004
+Silver|77456|Singapore|2004
+Bronze|13932|Singapore|2004
+Gold|97989|Singapore|2006
+Silver|67110|Singapore|2006
+Bronze|11536|Singapore|2006
+Gold|185406|Singapore|2008
+Silver|73082|Singapore|2008
+Bronze|12559|Singapore|2008
+Gold|117171|Singapore|2010
+Silver|63585|Singapore|2010
+Bronze|27003|Singapore|2010
+Gold|101333|Singapore|2012
+Silver|45701|Singapore|2012
+Bronze|13419|Singapore|2012
+Gold|130510|Slovakia|2000
+Silver|60993|Slovakia|2000
+Bronze|12230|Slovakia|2000
+Gold|194962|Slovakia|2002
+Silver|70275|Slovakia|2002
+Bronze|24375|Slovakia|2002
+Gold|135630|Slovakia|2004
+Silver|50878|Slovakia|2004
+Bronze|17287|Slovakia|2004
+Gold|120485|Slovakia|2006
+Silver|50610|Slovakia|2006
+Bronze|12188|Slovakia|2006
+Gold|112543|Slovakia|2008
+Silver|52417|Slovakia|2008
+Bronze|17518|Slovakia|2008
+Gold|188928|Slovakia|2010
+Silver|47650|Slovakia|2010
+Bronze|26268|Slovakia|2010
+Gold|128765|Slovakia|2012
+Silver|78489|Slovakia|2012
+Bronze|15833|Slovakia|2012
+Gold|90969|Slovenia|2000
+Silver|51780|Slovenia|2000
+Bronze|13582|Slovenia|2000
+Gold|183168|Slovenia|2002
+Silver|73152|Slovenia|2002
+Bronze|29171|Slovenia|2002
+Gold|123748|Slovenia|2004
+Silver|40224|Slovenia|2004
+Bronze|17353|Slovenia|2004
+Gold|153759|Slovenia|2006
+Silver|46234|Slovenia|2006
+Bronze|17807|Slovenia|2006
+Gold|186017|Slovenia|2008
+Silver|70224|Slovenia|2008
+Bronze|15449|Slovenia|2008
+Gold|126618|Slovenia|2010
+Silver|55892|Slovenia|2010
+Bronze|26897|Slovenia|2010
+Gold|92464|Slovenia|2012
+Silver|69049|Slovenia|2012
+Bronze|15073|Slovenia|2012
+Gold|194556|South Africa|2000
+Silver|49805|South Africa|2000
+Bronze|22945|South Africa|2000
+Gold|137277|South Africa|2002
+Silver|58992|South Africa|2002
+Bronze|24240|South Africa|2002
+Gold|179565|South Africa|2004
+Silver|58329|South Africa|2004
+Bronze|12727|South Africa|2004
+Gold|176530|South Africa|2006
+Silver|50136|South Africa|2006
+Bronze|22570|South Africa|2006
+Gold|176147|South Africa|2008
+Silver|79713|South Africa|2008
+Bronze|23337|South Africa|2008
+Gold|169808|South Africa|2010
+Silver|74299|South Africa|2010
+Bronze|11008|South Africa|2010
+Gold|196253|South Africa|2012
+Silver|71330|South Africa|2012
+Bronze|12194|South Africa|2012
+Gold|115366|South Korea|2000
+Silver|63517|South Korea|2000
+Bronze|18327|South Korea|2000
+Gold|136743|South Korea|2002
+Silver|67210|South Korea|2002
+Bronze|22874|South Korea|2002
+Gold|127259|South Korea|2004
+Silver|49701|South Korea|2004
+Bronze|18428|South Korea|2004
+Gold|173914|South Korea|2006
+Silver|48906|South Korea|2006
+Bronze|11004|South Korea|2006
+Gold|175967|South Korea|2008
+Silver|51025|South Korea|2008
+Bronze|14645|South Korea|2008
+Gold|124343|South Korea|2010
+Silver|52572|South Korea|2010
+Bronze|20721|South Korea|2010
+Gold|106278|South Korea|2012
+Silver|42563|South Korea|2012
+Bronze|26852|South Korea|2012
+Gold|127987|Spain|2000
+Silver|47725|Spain|2000
+Bronze|20586|Spain|2000
+Gold|141867|Spain|2002
+Silver|67920|Spain|2002
+Bronze|20739|Spain|2002
+Gold|141318|Spain|2004
+Silver|78493|Spain|2004
+Bronze|29470|Spain|2004
+Gold|115281|Spain|2006
+Silver|71116|Spain|2006
+Bronze|23617|Spain|2006
+Gold|194344|Spain|2008
+Silver|66388|Spain|2008
+Bronze|14063|Spain|2008
+Gold|126456|Spain|2010
+Silver|64020|Spain|2010
+Bronze|19815|Spain|2010
+Gold|189818|Spain|2012
+Silver|51793|Spain|2012
+Bronze|22135|Spain|2012
+Gold|113172|Sri Lanka|2000
+Silver|50065|Sri Lanka|2000
+Bronze|11671|Sri Lanka|2000
+Gold|90337|Sri Lanka|2002
+Silver|47622|Sri Lanka|2002
+Bronze|12277|Sri Lanka|2002
+Gold|195651|Sri Lanka|2004
+Silver|65614|Sri Lanka|2004
+Bronze|22898|Sri Lanka|2004
+Gold|90294|Sri Lanka|2006
+Silver|66488|Sri Lanka|2006
+Bronze|12253|Sri Lanka|2006
+Gold|99153|Sri Lanka|2008
+Silver|44545|Sri Lanka|2008
+Bronze|24505|Sri Lanka|2008
+Gold|181949|Sri Lanka|2010
+Silver|64862|Sri Lanka|2010
+Bronze|28284|Sri Lanka|2010
+Gold|192526|Sri Lanka|2012
+Silver|54920|Sri Lanka|2012
+Bronze|14205|Sri Lanka|2012
+Gold|101299|Sudan|2000
+Silver|52621|Sudan|2000
+Bronze|23215|Sudan|2000
+Gold|185826|Sudan|2002
+Silver|42109|Sudan|2002
+Bronze|19906|Sudan|2002
+Gold|144316|Sudan|2004
+Silver|49520|Sudan|2004
+Bronze|19293|Sudan|2004
+Gold|103617|Sudan|2006
+Silver|43065|Sudan|2006
+Bronze|27129|Sudan|2006
+Gold|96283|Sudan|2008
+Silver|64910|Sudan|2008
+Bronze|27578|Sudan|2008
+Gold|166460|Sudan|2010
+Silver|44664|Sudan|2010
+Bronze|20163|Sudan|2010
+Gold|174167|Sudan|2012
+Silver|58658|Sudan|2012
+Bronze|25222|Sudan|2012
+Gold|94666|Sweden|2000
+Silver|69897|Sweden|2000
+Bronze|18445|Sweden|2000
+Gold|134193|Sweden|2002
+Silver|55244|Sweden|2002
+Bronze|21677|Sweden|2002
+Gold|121085|Sweden|2004
+Silver|75459|Sweden|2004
+Bronze|15055|Sweden|2004
+Gold|112806|Sweden|2006
+Silver|61167|Sweden|2006
+Bronze|24858|Sweden|2006
+Gold|174561|Sweden|2008
+Silver|77826|Sweden|2008
+Bronze|15421|Sweden|2008
+Gold|176350|Sweden|2010
+Silver|56677|Sweden|2010
+Bronze|29569|Sweden|2010
+Gold|152949|Sweden|2012
+Silver|49586|Sweden|2012
+Bronze|10024|Sweden|2012
+Gold|110010|Switzerland|2000
+Silver|44987|Switzerland|2000
+Bronze|14378|Switzerland|2000
+Gold|176557|Switzerland|2002
+Silver|73398|Switzerland|2002
+Bronze|25281|Switzerland|2002
+Gold|148268|Switzerland|2004
+Silver|52915|Switzerland|2004
+Bronze|18536|Switzerland|2004
+Gold|107675|Switzerland|2006
+Silver|67979|Switzerland|2006
+Bronze|28538|Switzerland|2006
+Gold|129221|Switzerland|2008
+Silver|54604|Switzerland|2008
+Bronze|16302|Switzerland|2008
+Gold|127522|Switzerland|2010
+Silver|68248|Switzerland|2010
+Bronze|12800|Switzerland|2010
+Gold|100145|Switzerland|2012
+Silver|62231|Switzerland|2012
+Bronze|27855|Switzerland|2012
+Gold|93964|Syria|2000
+Silver|71216|Syria|2000
+Bronze|27207|Syria|2000
+Gold|159708|Syria|2002
+Silver|55040|Syria|2002
+Bronze|16059|Syria|2002
+Gold|162250|Syria|2004
+Silver|79648|Syria|2004
+Bronze|16980|Syria|2004
+Gold|173943|Syria|2006
+Silver|79329|Syria|2006
+Bronze|11770|Syria|2006
+Gold|103201|Syria|2008
+Silver|56171|Syria|2008
+Bronze|26222|Syria|2008
+Gold|121250|Syria|2010
+Silver|60866|Syria|2010
+Bronze|18451|Syria|2010
+Gold|91086|Syria|2012
+Silver|79127|Syria|2012
+Bronze|16473|Syria|2012
+Gold|188989|Tajikistan|2000
+Silver|47827|Tajikistan|2000
+Bronze|10504|Tajikistan|2000
+Gold|107874|Tajikistan|2002
+Silver|52132|Tajikistan|2002
+Bronze|13504|Tajikistan|2002
+Gold|110681|Tajikistan|2004
+Silver|43522|Tajikistan|2004
+Bronze|14784|Tajikistan|2004
+Gold|119605|Tajikistan|2006
+Silver|71519|Tajikistan|2006
+Bronze|26367|Tajikistan|2006
+Gold|192352|Tajikistan|2008
+Silver|66313|Tajikistan|2008
+Bronze|18289|Tajikistan|2008
+Gold|196089|Tajikistan|2010
+Silver|76799|Tajikistan|2010
+Bronze|22799|Tajikistan|2010
+Gold|114329|Tajikistan|2012
+Silver|42712|Tajikistan|2012
+Bronze|11710|Tajikistan|2012
+Gold|179818|Thailand|2000
+Silver|43828|Thailand|2000
+Bronze|27565|Thailand|2000
+Gold|160671|Thailand|2002
+Silver|51032|Thailand|2002
+Bronze|16973|Thailand|2002
+Gold|179655|Thailand|2004
+Silver|41123|Thailand|2004
+Bronze|22633|Thailand|2004
+Gold|142677|Thailand|2006
+Silver|79615|Thailand|2006
+Bronze|12210|Thailand|2006
+Gold|190699|Thailand|2008
+Silver|44424|Thailand|2008
+Bronze|14997|Thailand|2008
+Gold|150873|Thailand|2010
+Silver|51960|Thailand|2010
+Bronze|26845|Thailand|2010
+Gold|99639|Thailand|2012
+Silver|60383|Thailand|2012
+Bronze|26130|Thailand|2012
+Gold|99258|Togo|2000
+Silver|51225|Togo|2000
+Bronze|28801|Togo|2000
+Gold|190094|Togo|2002
+Silver|55318|Togo|2002
+Bronze|10987|Togo|2002
+Gold|199668|Togo|2004
+Silver|52840|Togo|2004
+Bronze|21484|Togo|2004
+Gold|95973|Togo|2006
+Silver|45716|Togo|2006
+Bronze|27019|Togo|2006
+Gold|191513|Togo|2008
+Silver|42306|Togo|2008
+Bronze|11851|Togo|2008
+Gold|112455|Togo|2010
+Silver|61715|Togo|2010
+Bronze|23939|Togo|2010
+Gold|171908|Togo|2012
+Silver|71718|Togo|2012
+Bronze|17091|Togo|2012
+Gold|183411|Trinidad and Tobago|2000
+Silver|77250|Trinidad and Tobago|2000
+Bronze|18115|Trinidad and Tobago|2000
+Gold|164924|Trinidad and Tobago|2002
+Silver|71385|Trinidad and Tobago|2002
+Bronze|12889|Trinidad and Tobago|2002
+Gold|171672|Trinidad and Tobago|2004
+Silver|52181|Trinidad and Tobago|2004
+Bronze|28096|Trinidad and Tobago|2004
+Gold|115667|Trinidad and Tobago|2006
+Silver|60150|Trinidad and Tobago|2006
+Bronze|27680|Trinidad and Tobago|2006
+Gold|111529|Trinidad and Tobago|2008
+Silver|75980|Trinidad and Tobago|2008
+Bronze|17860|Trinidad and Tobago|2008
+Gold|155677|Trinidad and Tobago|2010
+Silver|41924|Trinidad and Tobago|2010
+Bronze|14928|Trinidad and Tobago|2010
+Gold|170671|Trinidad and Tobago|2012
+Silver|69517|Trinidad and Tobago|2012
+Bronze|15726|Trinidad and Tobago|2012
+Gold|101035|Tunisia|2000
+Silver|68291|Tunisia|2000
+Bronze|20425|Tunisia|2000
+Gold|96515|Tunisia|2002
+Silver|74573|Tunisia|2002
+Bronze|11335|Tunisia|2002
+Gold|161120|Tunisia|2004
+Silver|48425|Tunisia|2004
+Bronze|24130|Tunisia|2004
+Gold|175734|Tunisia|2006
+Silver|79627|Tunisia|2006
+Bronze|21137|Tunisia|2006
+Gold|137994|Tunisia|2008
+Silver|60377|Tunisia|2008
+Bronze|29533|Tunisia|2008
+Gold|117949|Tunisia|2010
+Silver|70923|Tunisia|2010
+Bronze|18923|Tunisia|2010
+Gold|115739|Tunisia|2012
+Silver|43132|Tunisia|2012
+Bronze|11595|Tunisia|2012
+Gold|190767|Turkey|2000
+Silver|74970|Turkey|2000
+Bronze|20893|Turkey|2000
+Gold|121963|Turkey|2002
+Silver|67878|Turkey|2002
+Bronze|12724|Turkey|2002
+Gold|186285|Turkey|2004
+Silver|76648|Turkey|2004
+Bronze|16042|Turkey|2004
+Gold|112878|Turkey|2006
+Silver|47648|Turkey|2006
+Bronze|15712|Turkey|2006
+Gold|122952|Turkey|2008
+Silver|73526|Turkey|2008
+Bronze|10702|Turkey|2008
+Gold|152281|Turkey|2010
+Silver|53161|Turkey|2010
+Bronze|18202|Turkey|2010
+Gold|172709|Turkey|2012
+Silver|72018|Turkey|2012
+Bronze|16376|Turkey|2012
+Gold|151733|Uganda|2000
+Silver|61788|Uganda|2000
+Bronze|14850|Uganda|2000
+Gold|140392|Uganda|2002
+Silver|68559|Uganda|2002
+Bronze|10522|Uganda|2002
+Gold|107302|Uganda|2004
+Silver|45249|Uganda|2004
+Bronze|26790|Uganda|2004
+Gold|161337|Uganda|2006
+Silver|42851|Uganda|2006
+Bronze|16223|Uganda|2006
+Gold|150921|Uganda|2008
+Silver|50625|Uganda|2008
+Bronze|24918|Uganda|2008
+Gold|96518|Uganda|2010
+Silver|54878|Uganda|2010
+Bronze|22190|Uganda|2010
+Gold|168838|Uganda|2012
+Silver|77344|Uganda|2012
+Bronze|23315|Uganda|2012
+Gold|135000|Ukraine|2000
+Silver|57279|Ukraine|2000
+Bronze|17066|Ukraine|2000
+Gold|132987|Ukraine|2002
+Silver|42969|Ukraine|2002
+Bronze|17153|Ukraine|2002
+Gold|160971|Ukraine|2004
+Silver|53821|Ukraine|2004
+Bronze|11856|Ukraine|2004
+Gold|194860|Ukraine|2006
+Silver|68052|Ukraine|2006
+Bronze|21666|Ukraine|2006
+Gold|189388|Ukraine|2008
+Silver|43196|Ukraine|2008
+Bronze|16383|Ukraine|2008
+Gold|128705|Ukraine|2010
+Silver|76457|Ukraine|2010
+Bronze|12118|Ukraine|2010
+Gold|115036|Ukraine|2012
+Silver|73116|Ukraine|2012
+Bronze|25164|Ukraine|2012
+Gold|160202|United Arab Emirates|2000
+Silver|57152|United Arab Emirates|2000
+Bronze|22227|United Arab Emirates|2000
+Gold|153659|United Arab Emirates|2002
+Silver|74970|United Arab Emirates|2002
+Bronze|22203|United Arab Emirates|2002
+Gold|144062|United Arab Emirates|2004
+Silver|53834|United Arab Emirates|2004
+Bronze|10744|United Arab Emirates|2004
+Gold|157677|United Arab Emirates|2006
+Silver|64761|United Arab Emirates|2006
+Bronze|20216|United Arab Emirates|2006
+Gold|106973|United Arab Emirates|2008
+Silver|75929|United Arab Emirates|2008
+Bronze|10275|United Arab Emirates|2008
+Gold|161050|United Arab Emirates|2010
+Silver|74176|United Arab Emirates|2010
+Bronze|13556|United Arab Emirates|2010
+Gold|136563|United Arab Emirates|2012
+Silver|56523|United Arab Emirates|2012
+Bronze|24044|United Arab Emirates|2012
+Gold|160577|United States|2000
+Silver|56217|United States|2000
+Bronze|11744|United States|2000
+Gold|134121|United States|2002
+Silver|40237|United States|2002
+Bronze|20519|United States|2002
+Gold|172212|United States|2004
+Silver|55068|United States|2004
+Bronze|19484|United States|2004
+Gold|146169|United States|2006
+Silver|42202|United States|2006
+Bronze|23081|United States|2006
+Gold|164815|United States|2008
+Silver|42351|United States|2008
+Bronze|24482|United States|2008
+Gold|108311|United States|2010
+Silver|69047|United States|2010
+Bronze|29443|United States|2010
+Gold|186754|United States|2012
+Silver|73767|United States|2012
+Bronze|15795|United States|2012
+Gold|148975|Uruguay|2000
+Silver|40434|Uruguay|2000
+Bronze|12322|Uruguay|2000
+Gold|136959|Uruguay|2002
+Silver|57801|Uruguay|2002
+Bronze|26696|Uruguay|2002
+Gold|159320|Uruguay|2004
+Silver|76007|Uruguay|2004
+Bronze|11135|Uruguay|2004
+Gold|152455|Uruguay|2006
+Silver|75407|Uruguay|2006
+Bronze|20844|Uruguay|2006
+Gold|113169|Uruguay|2008
+Silver|76038|Uruguay|2008
+Bronze|23922|Uruguay|2008
+Gold|185116|Uruguay|2010
+Silver|78689|Uruguay|2010
+Bronze|23833|Uruguay|2010
+Gold|150159|Uruguay|2012
+Silver|63432|Uruguay|2012
+Bronze|18680|Uruguay|2012
+Gold|106465|Uzbekistan|2000
+Silver|54320|Uzbekistan|2000
+Bronze|22218|Uzbekistan|2000
+Gold|145766|Uzbekistan|2002
+Silver|61297|Uzbekistan|2002
+Bronze|27552|Uzbekistan|2002
+Gold|184876|Uzbekistan|2004
+Silver|68496|Uzbekistan|2004
+Bronze|28817|Uzbekistan|2004
+Gold|106192|Uzbekistan|2006
+Silver|52862|Uzbekistan|2006
+Bronze|24109|Uzbekistan|2006
+Gold|135981|Uzbekistan|2008
+Silver|64670|Uzbekistan|2008
+Bronze|24060|Uzbekistan|2008
+Gold|134597|Uzbekistan|2010
+Silver|69948|Uzbekistan|2010
+Bronze|10057|Uzbekistan|2010
+Gold|103364|Uzbekistan|2012
+Silver|76266|Uzbekistan|2012
+Bronze|27616|Uzbekistan|2012
+Gold|165650|Venezuela|2000
+Silver|43308|Venezuela|2000
+Bronze|12172|Venezuela|2000
+Gold|100334|Venezuela|2002
+Silver|74088|Venezuela|2002
+Bronze|18154|Venezuela|2002
+Gold|138320|Venezuela|2004
+Silver|57707|Venezuela|2004
+Bronze|13946|Venezuela|2004
+Gold|192324|Venezuela|2006
+Silver|72207|Venezuela|2006
+Bronze|12163|Venezuela|2006
+Gold|95943|Venezuela|2008
+Silver|65785|Venezuela|2008
+Bronze|17369|Venezuela|2008
+Gold|194040|Venezuela|2010
+Silver|45444|Venezuela|2010
+Bronze|27564|Venezuela|2010
+Gold|158475|Venezuela|2012
+Silver|74135|Venezuela|2012
+Bronze|27085|Venezuela|2012
+Gold|188430|Vietnam|2000
+Silver|61190|Vietnam|2000
+Bronze|19254|Vietnam|2000
+Gold|93662|Vietnam|2002
+Silver|51418|Vietnam|2002
+Bronze|23715|Vietnam|2002
+Gold|101312|Vietnam|2004
+Silver|77146|Vietnam|2004
+Bronze|23502|Vietnam|2004
+Gold|152061|Vietnam|2006
+Silver|43960|Vietnam|2006
+Bronze|20608|Vietnam|2006
+Gold|134613|Vietnam|2008
+Silver|43474|Vietnam|2008
+Bronze|28936|Vietnam|2008
+Gold|136909|Vietnam|2010
+Silver|57461|Vietnam|2010
+Bronze|29893|Vietnam|2010
+Gold|169050|Vietnam|2012
+Silver|72852|Vietnam|2012
+Bronze|23829|Vietnam|2012
+Gold|148930|Zimbabwe|2000
+Silver|59288|Zimbabwe|2000
+Bronze|25536|Zimbabwe|2000
+Gold|175585|Zimbabwe|2002
+Silver|57995|Zimbabwe|2002
+Bronze|24418|Zimbabwe|2002
+Gold|106196|Zimbabwe|2004
+Silver|78334|Zimbabwe|2004
+Bronze|14403|Zimbabwe|2004
+Gold|130195|Zimbabwe|2006
+Silver|45136|Zimbabwe|2006
+Bronze|22738|Zimbabwe|2006
+Gold|199405|Zimbabwe|2008
+Silver|75661|Zimbabwe|2008
+Bronze|14418|Zimbabwe|2008
+Gold|151267|Zimbabwe|2010
+Silver|53599|Zimbabwe|2010
+Bronze|24625|Zimbabwe|2010
+Gold|112071|Zimbabwe|2012
+Silver|77268|Zimbabwe|2012
+Bronze|20859|Zimbabwe|2012

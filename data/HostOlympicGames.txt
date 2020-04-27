@@ -1,0 +1,7 @@
+2000|Sydney|Australia
+2002|Salt Lake City|United States
+2004|Athens|Greece
+2006|Turin|Italy
+2008|Beijing|China
+2010|Vancouver|Canada
+2012|London|United Kingdom
